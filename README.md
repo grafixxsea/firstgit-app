@@ -1,0 +1,2 @@
+# firstgit-app
+hi ionic
